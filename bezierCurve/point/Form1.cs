@@ -35,15 +35,32 @@ namespace point
             }
             else {
                 message = string.Format("position coordination:X:{0}  Y:{1} ,被Click{2}次。",e.X,e.Y,ClickCount);
-
+                Graphics graphics = this.CreateGraphics();
+                Pen pointpen = new Pen(Color.Black,1);
+                graphics.DrawRectangle(pointpen,e.X,e.Y,5,5);
 
 
             }
 
-            // MessageBox.Show(message);
+           
             PositionLebel.Text = message;
 
+
         }
+
+        private void Point_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics canvas = e.Graphics;//建立畫布
+            Pen pen = new Pen(Color.Black, 1);//建立畫筆物件
+            Point p1 = new Point(260, 140);
+            Point p2 = new Point(290, 40);
+            Point p3 = new Point(320, 100);
+            Point p4 = new Point(350, 20);
+           
+            canvas.DrawBezier(pen, p1, p2, p3, p4); //兩點座標成線
+            //canvas.Dispose();//把畫布物件從記憶體中刪除
+        }
+
 
 
 
@@ -58,11 +75,11 @@ namespace point
             Point p2 = new Point(290,40);
             Point p3 = new Point(320, 100);
             Point p4 = new Point(350, 20);
-              
+            canvas.FillRectangle(Brushes.Red, 100, 100, 1, 1);  //used 1,1 for a pixel only
             canvas.DrawBezier(pen,p1,p2,p3,p4); //兩點座標成線
             //canvas.Dispose();//把畫布物件從記憶體中刪除
         }
-
+        
         private void PositionLebel_Click(object sender, EventArgs e)
         {
 
