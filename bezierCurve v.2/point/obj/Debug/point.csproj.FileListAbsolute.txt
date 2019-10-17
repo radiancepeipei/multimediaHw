@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\point\point\bin\Debug\point.exe.config
+c:\users\user\documents\visual studio 2015\Projects\point\point\bin\Debug\point.exe
+c:\users\user\documents\visual studio 2015\Projects\point\point\bin\Debug\point.pdb
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.exe
+c:\users\user\documents\visual studio 2015\Projects\point\point\obj\Debug\point.pdb
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\bin\Debug\point.exe.config
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\bin\Debug\point.exe
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\bin\Debug\point.pdb
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.csprojAssemblyReference.cache
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.Form1.resources
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.Properties.Resources.resources
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.csproj.GenerateResource.cache
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.exe
+C:\Users\A18138\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.pdb
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\bin\Debug\point.exe.config
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.exe
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.pdb
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\bin\Debug\point.exe
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\bin\Debug\point.pdb
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.Form1.resources
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.Properties.Resources.resources
+C:\Users\User\Desktop\multimediaHw\bezierCurve\point\obj\Debug\point.csproj.GenerateResource.Cache
