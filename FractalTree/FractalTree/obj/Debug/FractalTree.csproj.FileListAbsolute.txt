@@ -1,0 +1,27 @@
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Carpetas y demas\Programacion\Creaciones\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+C:\Users\User\Desktop\Symmetric-FractalTree-master\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
