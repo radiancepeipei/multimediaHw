@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\bin\Debug\FractualTree.exe.config
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\bin\Debug\FractualTree.exe
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\bin\Debug\FractualTree.pdb
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\obj\Debug\FractualTree.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\obj\Debug\FractualTree.Form1.resources
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\obj\Debug\FractualTree.Properties.Resources.resources
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\obj\Debug\FractualTree.csproj.GenerateResource.Cache
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\obj\Debug\FractualTree.exe
-c:\users\user\documents\visual studio 2015\Projects\FractualTree\FractualTree\obj\Debug\FractualTree.pdb

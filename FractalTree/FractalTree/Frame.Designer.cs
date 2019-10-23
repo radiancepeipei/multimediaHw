@@ -61,7 +61,7 @@
             // 
             // picturebox
             // 
-            this.picturebox.Location = new System.Drawing.Point(157, 29);
+            this.picturebox.Location = new System.Drawing.Point(171, 29);
             this.picturebox.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.picturebox.Name = "picturebox";
             this.picturebox.Size = new System.Drawing.Size(433, 356);
