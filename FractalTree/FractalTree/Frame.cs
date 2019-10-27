@@ -18,7 +18,7 @@ namespace FractalTree
         {
             InitializeComponent();
             this.MaximizeBox = false;
-            this.Size = new Size(700, 600);//設定視窗大小
+            this.Size = new Size(650, 500);//設定視窗大小
             this.CenterToScreen();//視窗至中
             this.FormBorderStyle = FormBorderStyle.FixedSingle;//視窗外框
             picturebox.BorderStyle = BorderStyle.Fixed3D;//畫面框
@@ -40,33 +40,37 @@ namespace FractalTree
                 int level = Convert.ToInt32(nud1.Value);//level
                 float xo = (picturebox.Width / 2);
                 float yo = picturebox.Height ;
-                paintFractalTree(pen, xo, yo, level, 90, length, p, anglevar, g, pen.Width);
+                float root = level;
+                paintFractalTree(pen, xo, yo, level, 90, length, p, anglevar, g, pen.Width,root);
                 pen.Dispose();
                 click = false;
             }
         }
 
-        private void paintFractalTree(Pen pen, float xo, float yo, int level, double angle, float length, float p,  double anglevar, Graphics line, float penwidth)
+
+
+        private void paintFractalTree(Pen pen, float xo, float yo, int level, double angle, float length, float p,  double anglevar, Graphics line, float penwidth,float root)
         {
-            float yf = yo - (sin(degreeToRadian(angle)) * length );
-            float xf = xo - (cos(degreeToRadian(angle)) * length );
             pen.Width = penwidth;
-            if (level >0)
-            {
-                if (length < 40)
+            if (length < 40)
                 {
                     pen.Color = Color.LightPink;//當樹枝長度<40px 畫筆換成淺粉色
                 }
-                else {
+            else {
                     pen.Color = Color.Brown;  //其他長度換回咖啡色
                 }
-                line.DrawLine(pen, xo, yo, xf, yf);
-                length = length * p;
-                penwidth--;
-                level--;
-                paintFractalTree(pen, xf, yf, level , angle + anglevar, length, p, anglevar, line,penwidth);//長右枝
-                paintFractalTree(pen, xf, yf, level , angle - anglevar, length, p, anglevar, line,penwidth);//長左枝
-                
+            if (level > 0)
+            {
+               
+                    float yf = yo - (sin(degreeToRadian(angle)) * length);
+                    float xf = xo - (cos(degreeToRadian(angle)) * length);
+                    line.DrawLine(pen, xo, yo, xf, yf);
+                    length = length * p;
+                    penwidth--;
+                    level--;
+                    paintFractalTree(pen, xf, yf, level, angle + anglevar, length, p, anglevar, line, penwidth,root);//長右枝
+                    paintFractalTree(pen, xf, yf, level, angle - anglevar, length, p, anglevar, line, penwidth,root);//長左枝
+        
             }
 
         }
@@ -108,5 +112,9 @@ namespace FractalTree
             picturebox.Refresh();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
